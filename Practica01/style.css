@@ -13,9 +13,11 @@ a{
 a:hover{
     color: chartreuse;
 }
+
 h2{
     color: gold;
 }
+
 table{
     width: 100%;
 }
